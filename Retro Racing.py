@@ -10,7 +10,7 @@ pygame.mixer.init()
 WINDOW_WIDTH = 1024
 WINDOW_HEIGHT = 768
 window = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
-pygame.display.set_caption("Modern Street Racing")
+pygame.display.set_caption("Retro Racing")
 
 ASPHALT = (50, 50, 50)
 WHITE = (255, 255, 255)
